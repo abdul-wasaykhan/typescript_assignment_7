@@ -1,2 +1,2 @@
-# typescript_assignment_7
+# typescript_assignment_7_8_both
 number_eight
